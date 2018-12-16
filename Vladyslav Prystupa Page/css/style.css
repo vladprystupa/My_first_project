@@ -1081,6 +1081,7 @@ footer .copyright {
 
 footer .credits {
   margin-bottom: 0;
+  font-weight: bold;
 }
 
 footer .credits a {
